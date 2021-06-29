@@ -1,77 +1,28 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position/tagline
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations to show in About widget
+title: Miquel Simonet
+role: Associate Professor of Spanish
+bio: My research interests include laboratory phonology, phonetics,
+  psycholinguistics, and second language acquisition.
+interests: []
+social: []
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-# Education to show in About widget
+  - name: University of Arizona
+    url: https://spanish.arizona.edu/
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - course: PhD in Spanish (Romance Linguistics)
+      institution: University of Illinois at Urbana-Champaign
+      year: 2008
+    - course: MA in Spanish (Hispanic Linguistics)
+      institution: University of Illinois at Urbana-Champaign
+      year: 2003
+    - course: College Degree in Catalan Philology
+      institution: University of the Balearic Islands
+      year: 2000
 email: ""
-
-# Highlight the author in author lists? (true/false)
+superuser: true
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Miquel Simonet is a phonetician, laboratory phonologist, and scholar of second language studies. Laboratory phonologists employ the auxiliary theories and methods of instrumental phonetics and experimental psycholinguistics to investigate phonological competence. One of Miquel's principal areas of expertise is second language speech learning, particularly the acquisition of the sounds and (the phonological structure of) words of a second language. A second area of interest of his is phonetic and phonological variation and change, including contact-induced change, with a focus on Western Romance. His interest in second language learning (beyond phonetics) has been growing in recent years. Miquel's publications have appeared in journals such as the *Journal of Phonetics*, the *Journal of the International Phonetic Association*, *Language and Speech*, *Second Language Research*, the *International Journal of Bilingualism*, *Phonetica*, *Laboratory Phonology*, *Linguistics*, *Probus*, *Linguistic Approaches to Bilingualism*, *Languages*, *Hispania*, and *Studies in Hispanic and Lusophone Linguistics*.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
