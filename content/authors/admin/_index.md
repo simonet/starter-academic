@@ -5,7 +5,9 @@ avatar_filename: image.jpg
 bio: My research interests include laboratory phonology, phonetics,
   psycholinguistics, and second language acquisition.
 interests:
+  - Phonology
   - Phonetics
+  - Psycholinguistics
 social: []
 organizations:
   - name: University of Arizona
