@@ -1,6 +1,7 @@
 ---
 title: Miquel Simonet
 role: Associate Professor of Spanish
+avatar_filename: image.jpg
 bio: My research interests include laboratory phonology, phonetics,
   psycholinguistics, and second language acquisition.
 interests:
